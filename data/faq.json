@@ -1,0 +1,850 @@
+[
+  {
+    "q": "Pourquoi tester un chatbot ou un assistant?",
+    "a": "<p>Le chatbot, ou assistant digital, doit permettre &agrave; la fois un meilleur support aux utilisateurs en prenant en compte des questions qui sont propres &agrave; Servier, mais doit &eacute;galement faciliter certaines op&eacute;rations comme la recherche d'informations, les approbations ou l'acc&egrave;s aux notifications sur son t&eacute;l&eacute;phone.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "1"
+  },
+  {
+    "q": "Quelle est l'adresse du Wip's ?",
+    "a": "<p>Voici le lien du Wip's : <a href=\"https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#\">&nbsp;https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "2"
+  },
+  {
+    "q": "Quel est le lien WIPS",
+    "a": "<p>Voici le lien du Wip's : <a href=\"https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#\">&nbsp;https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "2"
+  },
+  {
+    "q": "Comment me rendre sur le WIp's",
+    "a": "<p>Voici le lien du Wip's : <a href=\"https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#\">&nbsp;https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "2"
+  },
+  {
+    "q": "Wip's",
+    "a": "<p>Voici le lien du Wip's : <a href=\"https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#\">&nbsp;https:\/\/wips.servier.com\/home\/ls\/community\/eproc-corner-1#<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "2"
+  },
+  {
+    "q": "Peux-tu m'envoyer le lien du Elearning MDM ?",
+    "a": "<p>Pour acc&egrave;der au Elearning MDM <a href=\"http:\/\/clickandlearn.part.grs.net\/libFormation\/SPIRIT UNE INTRODUCTION AU MASTER DATA MANAGEMENT\/SPIRIT _ Une Introduction au Master Data Management.mp4\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "3"
+  },
+  {
+    "q": "Elearning MDM",
+    "a": "<p>Pour acc&egrave;der au Elearning MDM <a href=\"http:\/\/clickandlearn.part.grs.net\/libFormation\/SPIRIT UNE INTRODUCTION AU MASTER DATA MANAGEMENT\/SPIRIT _ Une Introduction au Master Data Management.mp4\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "3"
+  },
+  {
+    "q": "Elearning mdm fournisseurs",
+    "a": "<p>Pour acc&egrave;der au Elearning MDM fournisseurs <a href=\"http:\/\/clickandlearn.part.grs.net\/libFormation\/SPIRIT%20LES%20POINTS%20CLES%20DU%20MDM%20ACHATS\/SPIRIT%20_%20Les%20Points%20Cl%C3%A9s%20du%20MDM%20Achats.mp4\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "4"
+  },
+  {
+    "q": "je cherche le elearning mdm fournisseur",
+    "a": "<p>Pour acc&egrave;der au Elearning MDM fournisseurs <a href=\"http:\/\/clickandlearn.part.grs.net\/libFormation\/SPIRIT%20LES%20POINTS%20CLES%20DU%20MDM%20ACHATS\/SPIRIT%20_%20Les%20Points%20Cl%C3%A9s%20du%20MDM%20Achats.mp4\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "4"
+  },
+  {
+    "q": "donne moi le lien elearning mdm fournisseurs",
+    "a": "<p>Pour acc&egrave;der au Elearning MDM fournisseurs <a href=\"http:\/\/clickandlearn.part.grs.net\/libFormation\/SPIRIT%20LES%20POINTS%20CLES%20DU%20MDM%20ACHATS\/SPIRIT%20_%20Les%20Points%20Cl%C3%A9s%20du%20MDM%20Achats.mp4\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "4"
+  },
+  {
+    "q": "Elearning Purchase to Pay",
+    "a": "<p>Pour acc&egrave;der au Elearning Purchase to Pay <a href=\"https:\/\/servier.csod.com\/lms\/scorm\/clientLMS\/ScormFrames.aspx?aicc_sid=AICCGMe1K0Q8z14kMlSvdY4PcQ&amp;aicc_url=https:\/\/servier.csod.com\/LMS\/scorm\/aicc.aspx\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "5"
+  },
+  {
+    "q": "Elearning P2P",
+    "a": "<p>Pour acc&egrave;der au Elearning Purchase to Pay <a href=\"https:\/\/servier.csod.com\/lms\/scorm\/clientLMS\/ScormFrames.aspx?aicc_sid=AICCGMe1K0Q8z14kMlSvdY4PcQ&amp;aicc_url=https:\/\/servier.csod.com\/LMS\/scorm\/aicc.aspx\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "5"
+  },
+  {
+    "q": "Comment passer le Elearning P2P",
+    "a": "<p>Pour acc&egrave;der au Elearning Purchase to Pay <a href=\"https:\/\/servier.csod.com\/lms\/scorm\/clientLMS\/ScormFrames.aspx?aicc_sid=AICCGMe1K0Q8z14kMlSvdY4PcQ&amp;aicc_url=https:\/\/servier.csod.com\/LMS\/scorm\/aicc.aspx\">Cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "5"
+  },
+  {
+    "q": "Comment mettre des documents en favoris ?",
+    "a": "<p>Voici une vid&eacute;o tuto pour apprendre &agrave; mettre des documents en favoris : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/Documents en favoris.mp4\">cliquer ici<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "6"
+  },
+  {
+    "q": "Comment ajouter une DA dans les favoris ?",
+    "a": "<p>Voici une vid&eacute;o tuto pour apprendre &agrave; mettre des documents en favoris : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/Documents en favoris.mp4\">cliquer ici<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "6"
+  },
+  {
+    "q": "Comment ajouter une commande dans les favoris ?",
+    "a": "<p>Voici une vid&eacute;o tuto pour apprendre &agrave; mettre des documents en favoris : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/Documents en favoris.mp4\">cliquer ici<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "6"
+  },
+  {
+    "q": "Comment ajouter une PO en favoris ?",
+    "a": "<p>Voici une vid&eacute;o tuto pour apprendre &agrave; mettre des documents en favoris : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/Documents en favoris.mp4\">cliquer ici<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "6"
+  },
+  {
+    "q": "Comment utiliser les filtres ?",
+    "a": "<p>Voici une vid&eacute;o tuto pour utiliser les filtres et la recherche : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/Filtrer et exporter.mp4\">Cliquer ici<\/a><\/p><p>Bon visionnage!<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "7"
+  },
+  {
+    "q": "Comment faire une recherche?",
+    "a": "<p>Voici une vid&eacute;o tuto pour utiliser les filtres et la recherche : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/Filtrer et exporter.mp4\">Cliquer ici<\/a><\/p><p>Bon visionnage!<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "7"
+  },
+  {
+    "q": "ma fiche contrat ne remonte pas dans ma DA",
+    "a": "<p>Bonjour<\/p><p>- As tu sign&eacute; ta fiche contrat?<\/p><p>-As tu verifi&eacute; que les d&acirc;tes de d&eacute;but et de fin de contrat de ta fiche correspondent aux d&acirc;tes renseign&eacute;es dans ta DA?<\/p><p>-Es tu sur le bon fournisseur titulaire?<\/p><p>-As tu bien selectionn&eacute; type de DA \"achat sur contrat\"?<\/p><p>Je suis certain que tu vas y arriver , allez courage!<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "8"
+  },
+  {
+    "q": "Comment r\u00e9ceptionner une commande ?",
+    "a": "<p>Rendez-vous sur la page suivante : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/Pages\/Aide.aspx\">cliquer ici<\/a>, vous trouverez des vid&eacute;os tutos sur les r&eacute;ceptions.<\/p><p>pour plus d'informations vous pouvez consulter <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/R&Atilde;&copy;ceptionner dans DACCOR.pdf\">ce guide<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "9"
+  },
+  {
+    "q": "Comment r\u00e9ceptionner une PO ?",
+    "a": "<p>Rendez-vous sur la page suivante : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/Pages\/Aide.aspx\">cliquer ici<\/a>, vous trouverez des vid&eacute;os tutos sur les r&eacute;ceptions.<\/p><p>pour plus d'informations vous pouvez consulter <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/R&Atilde;&copy;ceptionner dans DACCOR.pdf\">ce guide<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "9"
+  },
+  {
+    "q": "R\u00e9ceptionner une DA",
+    "a": "<p>Rendez-vous sur la page suivante : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/Pages\/Aide.aspx\">cliquer ici<\/a>, vous trouverez des vid&eacute;os tutos sur les r&eacute;ceptions.<\/p><p>pour plus d'informations vous pouvez consulter <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/R&Atilde;&copy;ceptionner dans DACCOR.pdf\">ce guide<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "9"
+  },
+  {
+    "q": "R\u00e9ceptionner une PO",
+    "a": "<p>Rendez-vous sur la page suivante : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/Pages\/Aide.aspx\">cliquer ici<\/a>, vous trouverez des vid&eacute;os tutos sur les r&eacute;ceptions.<\/p><p>pour plus d'informations vous pouvez consulter <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/R&Atilde;&copy;ceptionner dans DACCOR.pdf\">ce guide<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "9"
+  },
+  {
+    "q": "comment faire une r\u00e9ception partielle",
+    "a": "<p>Voici une vid&eacute;o tuto : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/R%C3%A9ception%20partielle%20d'une%20commande%20et%20solde%20d'une%20ligne.mp4\">cliquer ici<\/a><\/p><p>Pour plus d'informations vous pouvez consulter <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/R&Atilde;&copy;ceptionner dans DACCOR.pdf\">ce guide<\/a><\/p><p>Bon visionnage !<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "10"
+  },
+  {
+    "q": "comment faire une r\u00e9ception exc\u00e9dentaire",
+    "a": "<p>Voici une vid&eacute;o tuto : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/R%C3%A9ception%20exc%C3%A9dentaire.mp4\">cliquer ici<\/a><\/p><p>Pour plus d'informations vous pouvez consulter <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/R&Atilde;&copy;ceptionner dans DACCOR.pdf\">ce guide<\/a><\/p><p>Bon visionnage!<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "11"
+  },
+  {
+    "q": "Comment annuler une r\u00e9ception ?",
+    "a": "<p>-Si ta r&eacute;ception est \"approuv&eacute;e\" alors contactes ton p&ocirc;le r&eacute;ferent AA.Il peut annuler ta r&eacute;ception.<\/p><p>-Si ta r&eacute;ception n'est pas envoy&eacute;e en approbation: Vas sur ta commande, ensuite vas sur tes \"BL associ&eacute;s\", cliques sur la ligne du BL &agrave; annuler, en haut &agrave; droite de ton &eacute;cran cliques sur l'onglet \"autres actions\" et pour finir cliques sur annuler r&eacute;ception.Un message apparait pour valider ton action , cliques sur OK.<\/p><p>&nbsp;<\/p><p>Pour plus d'informations rendez-vous sur la page suivante :&nbsp;<a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/Annuler%20une%20r%C3%A9ception.mp4\">cliquer ici<\/a>, tu trouveras des vid&eacute;os tutos sur les r&eacute;ceptions.<\/p><p>&nbsp;<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "12"
+  },
+  {
+    "q": "Comment r\u00e9aliser une DA standard ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une DA standard : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Catalogue.pdf\">cliquer ici<\/a> si c'est du catalogue et <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Hors catalogue.pdf\">ici<\/a> si c'est du hors catalogue<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "13"
+  },
+  {
+    "q": "Quel est le lien pour le Mod Op cr\u00e9ation de DA\u00a0?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une DA standard : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Catalogue.pdf\">cliquer ici<\/a> si c'est du catalogue et <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Hors catalogue.pdf\">ici<\/a> si c'est du hors catalogue<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "13"
+  },
+  {
+    "q": "Comment r\u00e9aliser une da",
+    "a": "<p>Voici un guide pour r&eacute;aliser une DA standard : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Catalogue.pdf\">cliquer ici<\/a> si c'est du catalogue et <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Hors catalogue.pdf\">ici<\/a> si c'est du hors catalogue<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "13"
+  },
+  {
+    "q": "je veux r\u00e9aliser une da",
+    "a": "<p>Voici un guide pour r&eacute;aliser une DA standard : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Catalogue.pdf\">cliquer ici<\/a> si c'est du catalogue et <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA standard Hors catalogue.pdf\">ici<\/a> si c'est du hors catalogue<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "13"
+  },
+  {
+    "q": "Comment r\u00e9aliser une DA Punch-out papeterie ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une demande d'achat Punch-out Papeterie : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA Punch Out_Papeterie.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "14"
+  },
+  {
+    "q": "Comment r\u00e9aliser une DA Punch-out Amazon ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une demande d'achat Punch-out Amazon : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA Punch Out_AMAZON.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "15"
+  },
+  {
+    "q": "je souhaite r\u00e9aliser une da punch-out amazon",
+    "a": "<p>Voici un guide pour r&eacute;aliser une demande d'achat Punch-out Amazon : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/DaCCoR SAAS\/DA Punch Out_AMAZON.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "15"
+  },
+  {
+    "q": "Comment r\u00e9aliser une DA Punch-out Salamander ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une demande d'achat Punch-out Salamander : <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/DA%20Punch%20Out_SALAMANDER.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "16"
+  },
+  {
+    "q": "Comment utiliser l'easycart ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une demande easycart: <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/Easycart.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "17"
+  },
+  {
+    "q": "Comment r\u00e9aliser une commande de dur\u00e9e ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une commande de dur&eacute;e :&nbsp; <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/DA%20Commande%20de%20dur%C3%A9e.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "18"
+  },
+  {
+    "q": "Comment r\u00e9aliser un achat sur contrat ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser un achat sur contrat :&nbsp; <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/DA%20Achat%20sur%20contrat%20-%20Fiche%20contrat.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "19"
+  },
+  {
+    "q": "Comment r\u00e9aliser une fiche contrat ?",
+    "a": "<p>Voici un guide pour r&eacute;aliser une fiche contrat :&nbsp; <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/DA%20Achat%20sur%20contrat%20-%20Fiche%20contrat.pdf\">cliquer ici<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "20"
+  },
+  {
+    "q": "Comment utiliser Wave ?",
+    "a": "<p>Voici <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/Guide Utilisateur Wave.pdf\">un guide<\/a> pour utiliser les diff&eacute;rents rapports<\/p><p>Voici le lien pour acc&egrave;der au wave :<a href=\"https:\/\/app.powerbi.com\/\">&nbsp;https:\/\/app.powerbi.com\/<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "21"
+  },
+  {
+    "q": "Quel est le lien vers Wave ?",
+    "a": "<p>Voici le lien :<a href=\"https:\/\/app.powerbi.com\/\"> https:\/\/app.powerbi.com\/<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "22"
+  },
+  {
+    "q": "donne moi le lien vers le wave",
+    "a": "<p>Voici le lien :<a href=\"https:\/\/app.powerbi.com\/\"> https:\/\/app.powerbi.com\/<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "22"
+  },
+  {
+    "q": "Quelles sont les cat\u00e9gories achats ?",
+    "a": "<p>Voici <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/Categorie d'achat_V8.pdf\">un document<\/a> avec toutes les cat&eacute;gories achats&nbsp;<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "23"
+  },
+  {
+    "q": "Organigramme \u00e9quipe GPS",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/2021-01-20_14h05_40.png\" alt=\"\" width=\"741\" height=\"398\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "24"
+  },
+  {
+    "q": "Donne moi un organigramme du GPS",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/2021-01-20_14h05_40.png\" alt=\"\" width=\"741\" height=\"398\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "24"
+  },
+  {
+    "q": "Comment faire une d\u00e9l\u00e9gation ?",
+    "a": "<p>Attention : La d&eacute;l&eacute;gation doit rester exceptionnelle (arr&ecirc;t maladie, cong&eacute;s,...) et avoir une dur&eacute;e dans le temps (date de d&eacute;but\/date de fin).&nbsp;<\/p><p>Voici<a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/Quick%20card_D%C3%A9l%C3%A9gation_daccor%20saas_v2.pdf\"> un guide<\/a> pour r&eacute;aliser une d&eacute;l&eacute;gation<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "25"
+  },
+  {
+    "q": "Quelle est la proc\u00e9dure g\u00e9n\u00e9rale d'Achats ?",
+    "a": "<p>Voici la <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/Procedure Generale d'Achats.pdf\">PGA<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "26"
+  },
+  {
+    "q": "quelle est la proc\u00e9dure g\u00e9n\u00e9rale d achats",
+    "a": "<p>Voici la <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/Procedure Generale d'Achats.pdf\">PGA<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "26"
+  },
+  {
+    "q": "montre moi la proc\u00e9dure g\u00e9n\u00e9rale d'achats",
+    "a": "<p>Voici la <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/Procedure Generale d'Achats.pdf\">PGA<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "26"
+  },
+  {
+    "q": "donne moi la PGA",
+    "a": "<p>Voici la <a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR besoin daide\/Procedure Generale d'Achats.pdf\">PGA<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "26"
+  },
+  {
+    "q": "Pourquoi demander un avoir si le fournisseur m\u2019envoie une refacturation ?",
+    "a": "<p>L&eacute;galement toute facture re&ccedil;ue &agrave; notre comptabilit&eacute; doit &ecirc;tre comptabilis&eacute;e (m&ecirc;me erron&eacute;e) .L&rsquo;avoir vient contrepass&eacute; l&rsquo;&eacute;criture comptable.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "27"
+  },
+  {
+    "q": "comment ajouter un commentaire sur une DA",
+    "a": "<p>Il est possible d'ajouter une note en allant en bas de la DA puis en cliquants sur note &gt; nouveau &gt; saisir son commentaire .<\/p><p>Si vous ne saisissez pas de destinataire, la note sera visible par tous, toutefois vous pouvez choisir de l'envoyer et de ne la rendre visible qu'&agrave; un destinataire nomm&eacute; ce qui n'est pas forc&eacute;ment recommand&eacute;.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "28"
+  },
+  {
+    "q": "comment ajouter une note sur une DA",
+    "a": "<p>Il est possible d'ajouter une note en allant en bas de la DA puis en cliquants sur note &gt; nouveau &gt; saisir son commentaire .<\/p><p>Si vous ne saisissez pas de destinataire, la note sera visible par tous, toutefois vous pouvez choisir de l'envoyer et de ne la rendre visible qu'&agrave; un destinataire nomm&eacute; ce qui n'est pas forc&eacute;ment recommand&eacute;.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "28"
+  },
+  {
+    "q": "que faire si le fournisseur m'envoie une facture",
+    "a": "<p>V&eacute;rifier que cette facture vous concerne, qu'elle porte bien votre n&deg;de PO et que la r&eacute;ception est bien effectu&eacute;e.<\/p><p>Vous devez ensuite transmettre la facture &agrave; la comptabilit&eacute; Fournisseurs &agrave; l'adresse mail inqu&eacute;e sur le bon de commande Daccor.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "29"
+  },
+  {
+    "q": "Est-ce que la cat\u00e9gorie exige du MT\/MH ou ML",
+    "a": "<p>Vous pouvez vous r&eacute;f&eacute;rer au fichier des cat&eacute;gories achats<a href=\"http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin daide\/Categorie d'achat_V8.pdf\"> en cliquant ici<\/a><\/p><p>Celles n&eacute;cessitant du MT MH et ML ont un pictogramme MH, MT ou ML<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "30"
+  },
+  {
+    "q": "comment r\u00e9diger le libell\u00e9 de commande",
+    "a": "<p>Si c'est une commande ouverte : commande ouverte 20..\/20.. + fournisseur .<\/p><p>Si c'est une DA sur contrat vous pouvez vous r&eacute;f&eacute;rer &agrave; la quickcard des contrats.<\/p><p>Si c'est une DA standard&nbsp; : VISA - Fournisseur - Description \" vous pouvez ajouter le n&deg; de devis, quotation ou tout autre r&eacute;f&eacute;rence<\/p><p>Si c'est une DA Punch Out Salamander : VISA &ndash; SALAMANDER &ndash; Description.<\/p><p>Si c'est une DA Punch Out Amazon : VISA &ndash; AMAZON &ndash; Description.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "31"
+  },
+  {
+    "q": "comment r\u00e9diger le libell\u00e9 d'une DA",
+    "a": "<p>Si c'est une commande ouverte : commande ouverte 20..\/20.. + fournisseur .<\/p><p>Si c'est une DA sur contrat vous pouvez vous r&eacute;f&eacute;rer &agrave; la quickcard des contrats.<\/p><p>Si c'est une DA standard&nbsp; : VISA - Fournisseur - Description \" vous pouvez ajouter le n&deg; de devis, quotation ou tout autre r&eacute;f&eacute;rence<\/p><p>Si c'est une DA Punch Out Salamander : VISA &ndash; SALAMANDER &ndash; Description.<\/p><p>Si c'est une DA Punch Out Amazon : VISA &ndash; AMAZON &ndash; Description.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "31"
+  },
+  {
+    "q": "comment savoir si j\u2019ai besoin d\u2019approuver une r\u00e9ception",
+    "a": "<p>Si vous devez approuver une r&eacute;ception, un mail DaCCoR a d&ucirc; vous &ecirc;tre envoy&eacute;.<\/p><p>Vous pouvez &eacute;galement aller dans l'application &gt; page d'acceuil &gt; cliquer sur BR &agrave; approuver.<\/p><p>S'il en existe plusieurs, vous pouvez cliquer sur la ligne &agrave; &agrave; approuver.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "32"
+  },
+  {
+    "q": "quelle est la taille maximale des pieces jointes ?",
+    "a": "<p>La taille maximale d'une pi&egrave;ce jointe est de 13 Mb<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "33"
+  },
+  {
+    "q": "quelle est la taille max des pj ?",
+    "a": "<p>La taille maximale d'une pi&egrave;ce jointe est de 13 Mb<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "33"
+  },
+  {
+    "q": "quelle est la taille maximale des pj ?",
+    "a": "<p>La taille maximale d'une pi&egrave;ce jointe est de 13 Mb<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "33"
+  },
+  {
+    "q": "quelle taille max pour les pj",
+    "a": "<p>La taille maximale d'une pi&egrave;ce jointe est de 13 Mb<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "33"
+  },
+  {
+    "q": "Quelle heure est-il ?",
+    "a": "<p>Regarde en bas &agrave; droite ;)<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/time2.gif\" alt=\"\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "34"
+  },
+  {
+    "q": "quelle heure il est",
+    "a": "<p>Regarde en bas &agrave; droite ;)<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/time2.gif\" alt=\"\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "34"
+  },
+  {
+    "q": "quels doc sont n\u00e9cessaires pour la cr\u00e9ation fournisseur",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/MicrosoftTeams-image%20%281%29.png\" alt=\"\" width=\"1282\" height=\"394\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "35"
+  },
+  {
+    "q": "documents cr\u00e9ation fournisseur fran\u00e7ais",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/MicrosoftTeams-image%20%281%29.png\" alt=\"\" width=\"1282\" height=\"394\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "35"
+  },
+  {
+    "q": "Quels documents sont n\u00e9cessaires \u00e0 la cr\u00e9ation d'un fournisseur \u00e9tranger ?",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/MicrosoftTeams-image%20%281%29.png\" alt=\"\" width=\"1282\" height=\"394\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "35"
+  },
+  {
+    "q": "Quels sont les documents n\u00e9cessaires \u00e0 la cr\u00e9ation d'un fournisseur",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/MicrosoftTeams-image%20%281%29.png\" alt=\"\" width=\"1282\" height=\"394\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "35"
+  },
+  {
+    "q": "Quel temps fait-il ?",
+    "a": "<p>&nbsp;<\/p><p>Il est temps de regarder par la fen&ecirc;tre !<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/source.gif\" alt=\"\" width=\"365\" height=\"205\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "36"
+  },
+  {
+    "q": "Raconte moi une blague ?",
+    "a": "<p>A quoi sert Internet Explorer ?&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>A t&eacute;l&eacute;charger Google Chrome.&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/giphy.gif\" alt=\"\" width=\"400\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "37"
+  },
+  {
+    "q": "Dis moi une blague ?",
+    "a": "<p>A quoi sert Internet Explorer ?&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>A t&eacute;l&eacute;charger Google Chrome.&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/giphy.gif\" alt=\"\" width=\"400\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "37"
+  },
+  {
+    "q": "fais moi une blague",
+    "a": "<p>A quoi sert Internet Explorer ?&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>A t&eacute;l&eacute;charger Google Chrome.&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/giphy.gif\" alt=\"\" width=\"400\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "37"
+  },
+  {
+    "q": "as-tu une blague",
+    "a": "<p>A quoi sert Internet Explorer ?&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>&nbsp;<\/p><p>A t&eacute;l&eacute;charger Google Chrome.&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/giphy.gif\" alt=\"\" width=\"400\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "37"
+  },
+  {
+    "q": "est-ce que je peux passer une commande d'achat direct dans daccor",
+    "a": "<p>DaCCoR sert uniquement &agrave; passer des commandes d'achat indirect<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "39"
+  },
+  {
+    "q": "est-il possible de passer une commande d'achat direct dans daccor",
+    "a": "<p>DaCCoR sert uniquement &agrave; passer des commandes d'achat indirect<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "39"
+  },
+  {
+    "q": "peut-on passer des commandes d'achat direct dans daccor",
+    "a": "<p>DaCCoR sert uniquement &agrave; passer des commandes d'achat indirect<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "39"
+  },
+  {
+    "q": "je souhaite passer une demande d'achat direct",
+    "a": "<p>DaCCoR sert uniquement &agrave; passer des commandes d'achat indirect<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "39"
+  },
+  {
+    "q": "ok top merci beaucoup",
+    "a": "<p>De rien !&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/you are welcome.gif\" alt=\"\" width=\"430\" height=\"288\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "40"
+  },
+  {
+    "q": "merci",
+    "a": "<p>De rien !&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/you are welcome.gif\" alt=\"\" width=\"430\" height=\"288\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "40"
+  },
+  {
+    "q": "top merci",
+    "a": "<p>De rien !&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/you are welcome.gif\" alt=\"\" width=\"430\" height=\"288\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "40"
+  },
+  {
+    "q": "ok top merci",
+    "a": "<p>De rien !&nbsp;<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/you are welcome.gif\" alt=\"\" width=\"430\" height=\"288\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "40"
+  },
+  {
+    "q": "je te souhaite un bon week end",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/we.gif\" alt=\"\" width=\"480\" height=\"270\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "41"
+  },
+  {
+    "q": "bon weekend",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/we.gif\" alt=\"\" width=\"480\" height=\"270\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "41"
+  },
+  {
+    "q": "merci bon week-end",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/we.gif\" alt=\"\" width=\"480\" height=\"270\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "41"
+  },
+  {
+    "q": "bon week end",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/we.gif\" alt=\"\" width=\"480\" height=\"270\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "41"
+  },
+  {
+    "q": "Quel est ton film pr\u00e9f\u00e9r\u00e9 ?",
+    "a": "<p>Devine...<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/terminator.gif\" alt=\"\" width=\"268\" height=\"268\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "42"
+  },
+  {
+    "q": "ton film pr\u00e9f\u00e9r\u00e9",
+    "a": "<p>Devine...<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/terminator.gif\" alt=\"\" width=\"268\" height=\"268\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "42"
+  },
+  {
+    "q": "Quelle est ta musique pr\u00e9f\u00e9r\u00e9e ?",
+    "a": "<p>Mes cong&eacute;n&egrave;res s'en sortent pas trop mal avec la techno<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/robot.gif\" alt=\"\" width=\"287\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "43"
+  },
+  {
+    "q": "Tu \u00e9coutes de la musique?",
+    "a": "<p>Mes cong&eacute;n&egrave;res s'en sortent pas trop mal avec la techno<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/robot.gif\" alt=\"\" width=\"287\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "43"
+  },
+  {
+    "q": "musique pr\u00e9f\u00e9r\u00e9e",
+    "a": "<p>Mes cong&eacute;n&egrave;res s'en sortent pas trop mal avec la techno<\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/robot.gif\" alt=\"\" width=\"287\" height=\"400\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "43"
+  },
+  {
+    "q": "tu as le spleen? un petit remontant?",
+    "a": "<p><a href=\"https:\/\/youtu.be\/Gf3EuKKRdY0\">&nbsp; <\/a><a href=\"https:\/\/youtu.be\/Gf3EuKKRdY0\">cliques sur ce lien, passes la pub et eclates toi &nbsp; <\/a><a href=\"https:\/\/youtu.be\/Gf3EuKKRdY0\">https:\/\/youtu.be\/Gf3EuKKRdY0&nbsp;&nbsp;<\/a><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "44"
+  },
+  {
+    "q": "Comment tu t'appelles ?",
+    "a": "<p><strong>Je m'appelle Angie&nbsp;<\/strong><\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/source (1).gif\" alt=\"\" width=\"148\" height=\"109\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "47"
+  },
+  {
+    "q": "Comment t'appelles tu ?",
+    "a": "<p><strong>Je m'appelle Angie&nbsp;<\/strong><\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/source (1).gif\" alt=\"\" width=\"148\" height=\"109\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "47"
+  },
+  {
+    "q": "Quel est ton nom",
+    "a": "<p><strong>Je m'appelle Angie&nbsp;<\/strong><\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/source (1).gif\" alt=\"\" width=\"148\" height=\"109\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "47"
+  },
+  {
+    "q": "tu t'appelles comment",
+    "a": "<p><strong>Je m'appelle Angie&nbsp;<\/strong><\/p><p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/source (1).gif\" alt=\"\" width=\"148\" height=\"109\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "47"
+  },
+  {
+    "q": "Quelle priorit\u00e9 choisir pour ma da ?",
+    "a": "<p>\"<strong>normale<\/strong>\" : vous &eacute;tablissez une DA en vue de passer une commande<\/p><p>-&gt; <strong>respect du process<\/strong>.<\/p><p>\"<strong>r&eacute;gul manuelle<\/strong>\" : vous &eacute;tablissez une DA alors que la prestation est commenc&eacute;e -&gt;<strong> vous &ecirc;tes en retard<\/strong> dans le process d&rsquo;engagement.<\/p><p>La commande ne sera pas envoy&eacute;e automatiquement chez le fournisseur.<\/p><p>\"<strong>r&eacute;gul auto<\/strong>\" : vous &eacute;tablissez une DA au vu d'une facture. <strong>Vous allez &agrave; l'encontre du process P2P<\/strong>. La commande s'auto r&eacute;ceptionne et est cl&ocirc;tur&eacute;e par le syst&egrave;me.<\/p><p>\"<strong>haute<\/strong>\" : vous &ecirc;tes dans le sch&eacute;ma normal et votre DA a besoin d'&ecirc;tre trait&eacute;e en priorit&eacute;. Cette priorit&eacute; doit &ecirc;tre justifi&eacute;e par une note.<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "48"
+  },
+  {
+    "q": "Qu'est-ce qu'un da d'investissement?",
+    "a": "<p>Cela concerne les achats de<\/p><p data-ccp-props=\"{\"><span data-contrast=\"none\" data-scheme-color=\"@ED7D31,5,\" data-usefontface=\"false\">Mat&eacute;riel informatique\/scientifiqu<\/span>e d&rsquo;un montant unitaire sup&eacute;rieur &agrave; 500&euro;<\/p><p data-ccp-props=\"{\"><span data-contrast=\"none\" data-scheme-color=\"@ED7D31,5,\" data-usefontface=\"false\">Travaux d&rsquo;un montant unitaire sup&eacute;rieur &agrave; +10 000&euro;<\/span><\/p><p data-ccp-props=\"{\">?<\/p><p data-ccp-props=\"{\">&nbsp;<\/p><p data-ccp-props=\"{\">&nbsp;<\/p><p data-ccp-props=\"{\">&nbsp;<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "49"
+  },
+  {
+    "q": "Comment choisir son type de DA ?",
+    "a": "<p><strong>DA standard<\/strong> : on l&rsquo;utilise pour :<\/p><ul><li>les CGC (conditions g&eacute;n&eacute;rales de commandes) \/ CPC (conditions particuli&egrave;res de commande),<\/li><li>les contrats de maintenances (scientifique et technique).<\/li><li><p>pour les factures de r&eacute;gul, les commandes ouvertes, les achats sur devis, les contrats avec les organismes de congres et hotel etc &hellip;..<\/p><\/li><\/ul><p>Les justificatifs seront alors vers&eacute;s directement dans la DA.<\/p><p>La DA &laquo;&nbsp;<strong>achat sur contrat<\/strong>&nbsp;&raquo; est utilis&eacute;e pour tous les contrats sauf<\/p><ul><li>CGC \/ CPC<\/li><li>contrats de maintenances (technique et scientifique).Tous ces achats \/ contrats devront faire l&rsquo;objet d&rsquo;une fiche contrat, qui sera rattach&eacute;e aux DA correspondantes.<p>Work order en lien avec un contrat cadre, contrat de conseil, orateur, relecture etc&hellip;<\/p><\/li><\/ul><p>LA DA Commande de dur&eacute;e on l&rsquo;utilise pour :<\/p><p>Des montants et &eacute;ch&eacute;ances fixes<\/p><p>justificatif obligatoire<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "50"
+  },
+  {
+    "q": "Comment cr\u00e9er un compte daccor ?",
+    "a": "<p>En amont de la demande de cr&eacute;ation d'un compte Daccor, le E-learning P2P doit &ecirc;tre obligatoirement fait.<\/p><p>Le certificat justifiant que le E-learning a &eacute;t&eacute; fait est &agrave; joindre &agrave; la demande Diane<\/p><p>E-Learning disponible dans SHARE<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "51"
+  },
+  {
+    "q": "Qu'est-ce qu'un punch-out ?",
+    "a": "<p>Le Punch-Out, fait r&eacute;f&eacute;rence &agrave; un syst&egrave;me num&eacute;rique dans lequel un fournisseur permet &agrave; SERVIER clients de parcourir ses catalogues de produits en ligne, puis d&rsquo;acheter des biens ou des services au sein de la <a href=\"https:\/\/uppler.com\/fr\/plateforme-e-procurement\">plateforme e-procurement<\/a> du client. Ainsi, le punch-out d&eacute;crit en fait une plateforme d'approvisionnement B2B dans laquelle vous pouvez acheter des produits aupr&egrave;s de fournisseurs externes au sein de votre propre infrastructure num&eacute;rique. (DACCOR)<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "52"
+  },
+  {
+    "q": "Comment puis-je d\u00e9l\u00e9guer mon compte daccor ?",
+    "a": "<p>Cliquer sur ce lien pour la d&eacute;l&eacute;gation de compte<\/p><p>http:\/\/achats.part.grs.net\/Daccor\/DACCOR%20besoin%20daide\/DaCCoR%20SAAS\/Quick%20card_D%C3%A9l%C3%A9gation_daccor%20saas_v2.pdf<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "53"
+  },
+  {
+    "q": "Qu'est-ce que tu sais faire ?",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/2021-03-11_17h21_14.png\" alt=\"\" width=\"721\" height=\"577\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "54"
+  },
+  {
+    "q": "Montre moi ce que tu sais faire",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/2021-03-11_17h21_14.png\" alt=\"\" width=\"721\" height=\"577\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "54"
+  },
+  {
+    "q": "Qu'est-ce que je peux te demander ?",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/2021-03-11_17h21_14.png\" alt=\"\" width=\"721\" height=\"577\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "54"
+  },
+  {
+    "q": "Quelles questions te poser ?",
+    "a": "<p><img src=\"http:\/\/servier.determine.com\/p\/upload\/public\/2021-03-11_17h21_14.png\" alt=\"\" width=\"721\" height=\"577\" \/><\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "54"
+  },
+  {
+    "q": "montre moi la signification du statut g\u00e9n\u00e9r\u00e9 d'une DA",
+    "a": "<p>statut g&eacute;n&eacute;r&eacute; = DA saisie mais pas envoy&eacute;e en Approbation<\/p>",
+    "type": "question",
+    "lg": "fr",
+    "userid": "84",
+    "index": "55"
+  }
+]
